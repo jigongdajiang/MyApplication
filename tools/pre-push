@@ -28,6 +28,7 @@
 # the standard input in the form:
 #
 #   <local ref> <local sha1> <remote ref> <remote sha1>
+echo "git pre push run ........"
 
 remote="$1"
 url="$2"

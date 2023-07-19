@@ -13,7 +13,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-
+# git hook 钩子文件处理的地方，本质就是将tools下的钩子文件拷贝到.git 目录下
 RED='\033[0;1;31m'
 NC='\033[0m' # No Color
 
